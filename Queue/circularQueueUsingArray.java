@@ -1,3 +1,4 @@
+//Time Complexity is o(1) for all these three operations.
 
 public class circularQueueUsingArray {
     static class Queue {
